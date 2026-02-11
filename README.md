@@ -2,6 +2,11 @@
 
 This project implements a real-time computer vision application that detects hand gestures and facial proximity using MediaPipe and OpenCV. The system analyzes the user's webcam feed to identify specific gestures and displays a corresponding image state alongside the video stream.
 
+<img width="1599" height="640" alt="image" src="https://github.com/user-attachments/assets/5fd001f3-bab9-42ae-9812-2b135db83026" />
+<img width="1601" height="637" alt="image" src="https://github.com/user-attachments/assets/4a58c3eb-7a63-4d7c-9845-2fb05ebb0c0b" />
+<img width="1601" height="641" alt="image" src="https://github.com/user-attachments/assets/c4538729-c1f2-467c-9467-be9c32a7a52b" />
+<img width="1600" height="636" alt="image" src="https://github.com/user-attachments/assets/053f263c-d1c0-413b-ae1e-6e127bc35b7a" />
+
 ## Features
 
 The application currently supports the detection of the following states:
